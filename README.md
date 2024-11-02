@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Coding" align="right" width="400"/>
 
 - 🌱 I’m currently learning **JavaScript and React**  
-- 🤝 I’m looking for help with **Daily Challenge Generator**  
+- 🤝 I’m looking for help with **SkillOrbit**  
 - 📫 How to reach me **sagarrathod292007@gmail.com**  
 
 ---
